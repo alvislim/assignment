@@ -1,4 +1,3 @@
-let initCallback;
 const express = require('express');
 const app = express();
 
